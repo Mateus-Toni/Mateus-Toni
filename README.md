@@ -2,7 +2,7 @@
 ### 👦 Sobre mim :
 > * 📌 Sou de Osasco, SP - Brasil.
 > * 💬 Me chame Para falar sobre Programação; carros; Física; Biologia; Jogos, com certeza vou adorar
-> * 🎓 Estudando Análise E Desenvolimento de Sistemas na Anhanguera, 
+> * 🎓 Estudando Análise E Desenvolimento de Sistemas, 
 > * 🛠️ Estou focando em Virar um **Dev-Backend**.
 > * 🔭 Hobbies: Skate, Counter-Strike, Leitura e Xadrez.
 > * 🚫 Sou Contra todo e qualquer tipo de discriminação!
