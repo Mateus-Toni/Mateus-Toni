@@ -3,17 +3,17 @@
 > * 📌 Sou de Osasco, SP - Brasil.
 > * 💬 Me chame Para falar sobre Programação; carros; Física; Biologia; Jogos, com certeza vou adorar
 > * 🎓 Estudando Análise E Desenvolimento de Sistemas, 
-> * 🛠️ Estou focando em Virar um **Dev-Backend**.
+> * 🛠️ Aprender novas tecnologias.
 > * 🔭 Hobbies: Skate, Counter-Strike, Leitura e Xadrez.
 > * 🚫 Sou Contra todo e qualquer tipo de discriminação!
 ##
 
-> * 📚 Atualmente aprendendo: Django, Selenium e Pandas
+> * 📚 Atualmente aprendendo: Django
 
 
 ##
 
-> * 🚶‍♂️ Próximos passos: <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />, <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+> * 🚶‍♂️ Próximos passos: <img align="center" height="20" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 ##
 
