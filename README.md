@@ -8,7 +8,7 @@
 > * 🚫 Sou Contra todo e qualquer tipo de discriminação!
 ##
 
-> * 📚 Atualmente aprendendo: Django
+> * 📚 Atualmente aprendendo: Java
 
 
 ##
